@@ -16,7 +16,7 @@ namespace FavoriteNumber
       // int faveNumber = (int)Console.ReadLine();
 
       int faveNumber = Convert.ToInt32(Console.ReadLine());
-      Console.Write("Your fav number is ");
+      Console.Write("Your fav number is " + faveNumber.ToString());
       Console.Write(faveNumber);
 
 
