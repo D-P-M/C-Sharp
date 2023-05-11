@@ -6,8 +6,6 @@ namespace ArchitectArithmetic
   {
     public static void Main(string[] args)
     {
- 
-
       Console.WriteLine("What monument would you like to work with?");
       Console.Write("Choose Teotihuaca (1), Taj Mahal (2), or Mecca (3): ");
 
