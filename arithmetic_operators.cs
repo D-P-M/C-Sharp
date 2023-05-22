@@ -32,7 +32,6 @@ namespace PlanetCalculations
     Console.WriteLine(newEarthAge);
     Console.WriteLine(newJupiterAge);
 
-
     }
   }
 }
