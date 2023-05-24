@@ -21,8 +21,7 @@ namespace ArrayLength
       else
       {
         Console.WriteLine("Add some songs!");
-      }
-     
+      } 
     }
   }
 }
