@@ -112,8 +112,6 @@ namespace StaticMembers
       Trees -= 20;
       Age += 1;
       return Trees;
-    }
-    
+    }   
   }
-
 }
