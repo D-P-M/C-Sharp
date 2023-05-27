@@ -86,8 +86,6 @@ namespace StaticMembers
     public static void PrintTreeFacts()
     {
       Console.WriteLine(TreeFacts);
-    }
-    
+    } 
   }
-
 }
